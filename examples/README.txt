@@ -1,0 +1,1 @@
+Run 'node index.js' at this folder to see phpConfig in action.

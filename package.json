@@ -1,0 +1,20 @@
+{
+  "name": "gulp-phpconfig",
+  "version": "1.0.0",
+  "description": "Gerate PHP configuration file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha test"
+  },
+  "author": "@brunoleaomaia",
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.2.2",
+    "vinyl-fs": "^2.3.1"
+  }
+}
