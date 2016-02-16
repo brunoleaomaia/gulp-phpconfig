@@ -2,11 +2,18 @@
   "name": "gulp-phpconfig",
   "version": "1.0.0",
   "description": "Gerate PHP configuration file.",
+  "author": {
+    "name": "Bruno Maia",
+    "email": "brunoleaomaia@gmail.com"
+  },
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoleaomaia/gulp-phpconfig.git"
+  },
   "scripts": {
     "test": "node_modules/.bin/mocha test"
   },
-  "author": "@brunoleaomaia",
   "license": "MIT",
   "dependencies": {
     "path": "^0.12.7",
