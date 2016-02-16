@@ -6,6 +6,11 @@
     "name": "Bruno Maia",
     "email": "brunoleaomaia@gmail.com"
   },
+  "keywords": [
+    "gulp",
+    "php",
+    "config"
+  ],
   "main": "index.js",
   "repository": {
     "type": "git",
