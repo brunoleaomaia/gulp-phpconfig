@@ -1,7 +1,7 @@
 {
   "name": "gulp-phpconfig",
-  "version": "1.0.0",
-  "description": "Gerate PHP configuration file.",
+  "version": "1.0.1",
+  "description": "Generate PHP configuration file.",
   "author": {
     "name": "Bruno Maia",
     "email": "brunoleaomaia@gmail.com"
